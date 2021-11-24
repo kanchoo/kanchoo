@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanchoo
+- 👋 Hi, I’m Kanchana Samala!
 - 👀 I am curious and passionate about extracting value from big data in a way that will bring joy into people's lives.
 - 🌱 I’m currently learning about the practical fundamentals of data mining and emerging paradigms of data mining and machine learning and the basic ideas and techniques underlying the design of intelligent computer systems.
 - 💞️ I’m looking to collaborate on making the world a better place!
